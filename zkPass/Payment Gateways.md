@@ -1,17 +1,14 @@
-| GO                    | Probably No-Go    | Pending                           |
-| --------------------- | ----------------- | --------------------------------- |
-| [Doku](#doku)         | [KasPay](#kaspay) | [OVO](#ovo)                       |
-| [Midtrans](#midtrans) | [GoPay](#gopay)   | [DANA](#dana)                     |
-| [Xendit](#xendit)     | [Faspay](#faspay) | [LinkAja](#linkaja)               |
-| [Finpay](#finpay)     |                   | [BCA KlikPay](#bca-klikpay)       |
-| [iPaymu](#ipaymu)     |                   | [Mandiri e-Cash](#mandiri-e-cash) |
-|                       |                   | [iPay88](#ipay88)                 |
-|                       |                   | [Winpay](#winpay)                 |
-|                       |                   | [Prismalink](#prismalink)         |
-|                       |                   | [Duitku](#duitku)                 |
-|                       |                   | [TrueMoney](#truemoney)           |
-|                       |                   | [FirstPay](#firstpay)             |
-|                       |                   | [EsPay](#espay)                   |
+| GO                    | Probably No-Go              | Pending                           |
+| --------------------- | --------------------------- | --------------------------------- |
+| [Doku](#doku)         | [KasPay](#kaspay)           | [LinkAja](#linkaja)               |
+| [Midtrans](#midtrans) | [GoPay](#gopay)             | [Mandiri e-Cash](#mandiri-e-cash) |
+| [Xendit](#xendit)     | [Faspay](#faspay)           | [iPay88](#ipay88)                 |
+| [Finpay](#finpay)     | [OVO](#ovo)                 | [Winpay](#winpay)                 |
+| [iPaymu](#ipaymu)     | [DANA](#dana)               | [Prismalink](#prismalink)         |
+|                       | [BCA KlikPay](#bca-klikpay) | [Duitku](#duitku)                 |
+|                       |                             | [TrueMoney](#truemoney)           |
+|                       |                             | [FirstPay](#firstpay)             |
+|                       |                             | [EsPay](#espay)                   |
 
 # Go
 

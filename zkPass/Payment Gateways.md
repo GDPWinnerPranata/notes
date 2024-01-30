@@ -103,6 +103,12 @@ iPaymu memberikan layanan payment gateway yang menawarkan solusi sistem pembayar
 
 Kaspay adalah _payment gateway_ PT. Darta Media Indonesia yang menghubungkan pembeli dan penjual yang bertransaksi di platform KASKUS.
 
+## BCA KlikPay
+
+> Dead
+
+BCA (Bank Central Asia) is one of the largest banks in Indonesia, and BCA KlikPay is their online payment gateway. It allows customers to make online transactions using their BCA accounts.
+
 ## GoPay
 
 > Contract signature required to start testing sandbox
@@ -139,23 +145,23 @@ Developed by Gojek, GoPay is a widely used digital wallet in Indonesia. It is co
 
 Faspay merupakan salah satu payment gateway yang sudah berpengalaman. Payment gateway yang satu ini telah berdiri sejak tahun 2003 silam. Faspay telah bermitra dengan lebih dari 1.500 mitra dari berbagai industri. Perusahaan ternama langganan Faspay antara lain Tiket.com, Starbucks, dan Kredivo.
 
-# Pending
-
 ## OVO
+
+> Contract signature required to start testing sandbox
 
 OVO is another popular digital wallet in Indonesia. It is used for various transactions, including bill payments, mobile top-ups, and retail purchases. OVO is accepted by a growing number of merchants across the country.
 
 ## DANA
 
+> Contract signature required to start testing sandbox
+
 DANA is a digital wallet that offers various financial services, including peer-to-peer transfers, bill payments, and online shopping. It is widely accepted by merchants in Indonesia.
+
+# Pending
 
 ## LinkAja
 
 LinkAja is a government-backed mobile payment platform that allows users to make payments, transfers, and purchases. It was developed as a collaboration between several state-owned enterprises.
-
-## BCA KlikPay
-
-BCA (Bank Central Asia) is one of the largest banks in Indonesia, and BCA KlikPay is their online payment gateway. It allows customers to make online transactions using their BCA accounts.
 
 ## Mandiri e-Cash
 

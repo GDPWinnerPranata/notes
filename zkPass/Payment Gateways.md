@@ -1,3 +1,32 @@
+GO:
+
+- [Doku](#doku)
+- [Midtrans](#midtrans)
+- [Xendit](#xendit)
+- [Finpay](#finpay)
+- [iPaymu](#ipaymu)
+
+Probably No-Go:
+
+- [KasPay](#kaspay)
+- [GoPay](#gopay)
+- [Faspay](#faspay)
+
+Pending:
+
+- [OVO](#ovo)
+- [DANA](#dana)
+- [LinkAja](#linkaja)
+- [BCA KlikPay](#bca-klikpay)
+- [Mandiri e-Cash](#mandiri-e-cash)
+- [iPay88](#ipay88)
+- [Winpay](#winpay)
+- [Prismalink](#prismalink)
+- [Duitku](#duitku)
+- [TrueMoney](#truemoney)
+- [FirstPay](#firstpay)
+- [EsPay](#espay)
+
 # Go
 
 ## Doku
